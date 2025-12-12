@@ -91,7 +91,7 @@
 ## Таблицы ##
 ![alt text](1.png)
 ![alt text](2.png)
-![alt text](3-1.png)
+![alt text](3.png)
 
 ## Заполнение данными ##
 ![alt text](5.png)
